@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Requerimientos del proyecto
+title: Requerimientos
 permalink: /requerimientos/
 ---
 
