@@ -27,7 +27,7 @@ axios.get('https://api.github.com/repos/PruebaPaginaEstatica/PruebaPaginaEstatic
     // always executed
 });
 
-axios.get('https://api.github.com/repos/PruebaPaginaEstatic/Documentacion-PaginaEstatica/releases')
+axios.get('https://api.github.com/repos/PruebaPaginaEstatica/Documentacion-PaginaEstatica/releases')
 .then(function (response) {
     var i;
     var suma = 0;
